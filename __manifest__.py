@@ -8,9 +8,9 @@
     'description': """
         By Installing this module, you will be able To see the database name on the top right of web page without needing to debug mode.
     """,
-
-    'author': "Mint System GmbH",
-    'website': "http://mint-system.ch",
+    
+    'author': "Mint System",
+    'website': "https://www.mint-system.ch",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/13.0/odoo/addons/base/data/ir_module_category_data.xml
