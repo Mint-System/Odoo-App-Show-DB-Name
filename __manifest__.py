@@ -3,7 +3,8 @@
     'name': "Show DB Name",
 
     'summary': """
-        Show the database name on the top right of web page without needing to debug mode.""",
+        Show the database name on the top right of web page without needing to debug mode.
+    """,
 
     'description': """
         By Installing this module, you will be able To see the database name on the top right of web page without needing to debug mode.
