@@ -14,7 +14,7 @@
     'website': 'https://www.mint-system.ch',
     'license': 'AGPL-3',
     'category': 'Tools',
-    'version': '1.0.4',
+    'version': '1.0.5',
 
     'depends': ['web'],
 
